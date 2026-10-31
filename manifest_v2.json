@@ -1,0 +1,83 @@
+{
+  "item": {
+    "id": "com.andred.stickbadminton3",
+    "restype": "quick_app",
+    "name": "火柴人羽毛球3",
+    "description": "《火柴人羽毛球3》1.1版本重大更新 更新完请立马重启一次匆必要重启\n是一款适配小米手环与红米手表的横屏羽毛球快应用。游戏延续原版简洁有趣的火柴人风格，保留特色角色、挥拍与行走动画、球场氛围及通关报纸结局，让经典对战体验来到腕上。\n\n游戏提供12名各具特点的角色，拥有不同的速度、跳跃和力量属性。普通角色通过左右移动、跳跃和击球按键操作，机器人与烤面包机使用二维摇杆移动，按住持续移动，松手停止。玩家需要判断羽毛球落点、把握挥拍时机，在五轮锦标赛中挑战不同对手，每场先得7分获胜，通过夺冠逐步解锁更多角色与剧情。\n\n移植版参照原版赛程、角色解锁与动作表现，针对穿戴设备调整布局、触控和人机难度，并支持离线存档与激活认证。除小米手环9外，其余适配机型支持密钥延续，具体取决于系统设备标识保持稳定。\n游戏帧率高达30帧 流畅不卡顿 完美复刻原版\nQQ交流群：1062431776 购买方式请见游戏激活界面\n更新日志：\n1.10更新：新增二段跳，降低球速与机器人强度，优化摇杆流畅度，修复选角、比分及退出异常。手环9、10/11与Pro重排横屏操控；红米5/6改为全界面竖屏，扩大按键，清理废弃资源。",
+    "preview": [
+      "media/1000039994.png",
+      "media/1000039993.png",
+      "media/1000039992.png",
+      "media/1000039991.png",
+      "media/1000040058.png"
+    ],
+    "icon": "media/1000040060.png",
+    "cover": "media/1000040055.png",
+    "author": [
+      {
+        "name": "Andred",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "Andred的游戏交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=drJ0eZH/p5w1j/7Oj3QNxwdkctEkWBX0eGsHRUtLrvmp9o%2B7XWOgZxg8piALe/KR&busi_data=eyJncm91cENvZGUiOiIxMDYyNDMxNzc2IiwidG9rZW4iOiJZRU41bm5pU0xzeDAxaHhqM0x6VlNkNWRpdUJvdlVtcjhiS3ViYkNXVHdZUnBxckt1V2lzVU4wTlgwcjJpcytmIiwidWluIjoiMzk0Njg4MjYyMCJ9&data=FSLl0Fe0zGra_P41oYqiy8ezjghio8Z2eZ3ImcZj6gmBw87XBRQzgXvPtU7QShr5qFo6gXbMOliebLDuSn_-3MdQHxF-urQYIwShJEszuGM&svctype=5&tempid=h5_group_info",
+      "icon": "quotes"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_红米手表5_6_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmrw5xring": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_红米手表5_6_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmrw6": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_红米手表5_6_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb10": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环10_11_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb10nfc": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环10_11_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb10p": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环9Pro_10Pro_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb11": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环10_11_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb11nfc": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环10_11_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb9": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环9_1.10.rpk",
+      "versionCode": 44
+    },
+    "xmb9p": {
+      "version": "1.10",
+      "file_name": "downloads/火柴人羽毛球3_小米手环9Pro_10Pro_1.10.rpk",
+      "versionCode": 44
+    }
+  },
+  "ext": {}
+}
